@@ -1,0 +1,63 @@
+body {
+    max-width: 1421px;
+    max-height: 426px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-right: 45px;
+}
+
+img {
+    padding-top: 45px;
+    padding-left: 44.41px;
+    width: 42px;
+    height: 45px;
+}
+
+ul {
+    display: flex;
+    size: 348px;
+    justify-content: space-between;
+    padding-left: 694px;
+    padding-right: 0px;
+    padding-top: 59px;
+    list-style: none;
+}
+
+li a {
+    padding: 15px;
+    transition: 0.3s ease-in-out;
+}
+
+li a:hover {
+    background-color: #5BC241;
+    color: #FFFFFF;;    
+}
+
+.cabecalho {
+    display: flex;
+}
+
+.logo-nome {
+    display: flex;
+}
+
+.nome-do-banco {
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 800;
+    font-size: 20px;
+    padding-left: 5.59px;
+    padding-top: 55px;
+}
+
+.cadastre-se a {
+    font-weight: 300;
+    border: 0.5px solid;
+    border-radius: 10px;
+    background-color: #5BC241;
+    color: #FFFFFF;
+}

@@ -1,0 +1,8 @@
+@media (max-width: 376px) {
+    .cabecalho {max-width: 375px; margin: auto; padding: 0; display: block; flex-wrap: wrap; justify-content: center; align-content: center;}
+    .logo-nome {max-width: 375px; margin: auto; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; align-content: center;}
+    .nome-do-banco {font-size: 40px;}
+    .logo-nome {padding-bottom: 50px;}
+    ul {max-width: 375px; margin: auto; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; flex-direction: column; align-content: center;}
+    li {font-size: 40px; padding: 20px;}
+}
